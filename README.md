@@ -1,3 +1,4 @@
+#Examining Factors Responsible for Heart Attacks
 I propose to work on the heart attack prediction dataset from simplilearn This dataset and the relative problem is of health and the likelihood of patients to suffer heart attack. The context of the data is that given certain varibles, is one able to build a model that would correctly predict if a patient will suffer a heart attack.
 
 1.What is the problem you want to solve?
